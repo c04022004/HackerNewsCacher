@@ -24,7 +24,7 @@ You may have to change
 3. The timer function is not thoroughly tested. A more relable way is by the `do ot manually` button.
 
 ## Credits
-I’d like to thank the following sources:
-[wkhtmltopdf.org](https://wkhtmltopdf.org)
-[stleary](https://github.com/stleary/JSON-java)
-[HackerNews](https://github.com/HackerNews/API)
+I’d like to thank the following sources:<p>
+[wkhtmltopdf.org](https://wkhtmltopdf.org)<p>
+[stleary](https://github.com/stleary/JSON-java)<p>
+[HackerNews](https://github.com/HackerNews/API)<p>
